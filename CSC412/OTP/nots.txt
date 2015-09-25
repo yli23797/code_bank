@@ -1,0 +1,7 @@
+Prof of why one time pad is secure
+
+Many time pad is like Vigenènere cipher if you put multiple pad together
+
+Know plain text attack
+
+Lack of integrity 
